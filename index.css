@@ -4,10 +4,10 @@
     margin: 0 auto;
     display: flex;
     flex-wrap: wrap;
+    gap: .5em;
 }
 
 .pet-item {
-    /* width: 200px; */
     flex: 1 220px;
 }
 
