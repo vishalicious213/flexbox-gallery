@@ -1,3 +1,7 @@
 # Flexbox Gallery
 
-This is a Scrimba project from Module 6 Part 1: Build a Responsive Site. We experimented with `flex-wrap`, `gap`, `flex`, `flex-basis`, `flex-grow` and `object-fit` in CSS.
+This is a project from Module 6 (Build a Responsive Site) of Scrimba's [Frontend Developer Path](https://scrimba.com/learn/frontend). It focuses on CSS Flexbox properties of `flex-wrap`, `gap`, `flex`, `flex-basis`, `flex-grow` and `object-fit` in CSS. Note how the panels are different widths, creating a staggered, brick-like effect.
+
+Deployed at: https://vish213-flexbox-gallery.netlify.app/
+
+![](./images/screenshot.jpg)
